@@ -1,8 +1,8 @@
-<div align= "center">
+<!-- <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=transparent&color=ff5757&height=180&text=Juwon's%20Github&animation=&fontColor=ff8585&fontSize=60" />
 </div>
 
-<div>
+<div> -->
   <!--Body-->
 
   ## 👀 About Me
